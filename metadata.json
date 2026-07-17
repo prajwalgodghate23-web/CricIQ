@@ -1,0 +1,6 @@
+{
+  "name": "CricIQ",
+  "description": "Conversational sports intelligence and analytical simulation platform for IPL and cricket matches, featuring real-time win probability, live simulation, international standings, rankings, and news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
